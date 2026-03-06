@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Skin Cancer Detection using Deep Learning
 
 An AI-powered system for detecting different types of skin cancer using a Convolutional Neural Network.
@@ -46,7 +45,8 @@ streamlit run app/streamlit_app.py
 
 ## Model
 
-The trained model is provided in the `model` directory.
+Download the model from the Releases section
+and place it inside the /model folder before running the app.
 
 Users can download and run the model locally for experimentation.
 
@@ -61,3 +61,4 @@ This project is for educational and research purposes only and should not be use
 # Skin_Cancer_Detection_Using_CNN
 Skin cancer diagnosis often requires expertise and is time-consuming, leaving room for human error. Automated detection systems can mitigate these issues, and provide scalable diagnostic support. This project addresses the challenge of building a CNN-based classification model to distinguish between skin cancer types from dermoscopic images.
 >>>>>>> f031bd5c805215a2358dd446df250e7df9dd4183
+
